@@ -9,9 +9,9 @@ api_id = os.environ.get('API_ID')
 api_hash = os.environ.get('API_HASH')
 
 START = """
-Hey, I'm an UdemyBot. ⚡
+Hᴇy, ɪ'Aᴍ Aɴ Uᴅᴇᴍy Bᴏᴛ
 
-I can send you free Udemy Courses Links.
+ɪ Cᴀɴ Sᴇɴᴅ Yᴏᴜ Fʀᴇᴇ Uᴅᴇᴍy Cᴏᴜʀꜱᴇꜱ Lɪɴᴋꜱ Oɴʟy Fᴏʀ Eᴅᴜᴄᴀᴛɪᴏɴ Pʀᴏᴄᴇꜱꜱ
 
 Commands:
     /discudemy page
@@ -21,7 +21,7 @@ Commands:
     /coursevania
     /idcoupons page
 
-page - which page you wanted to scrap and send links. Default is 1
+Pᴀɢᴇ - Wʜɪᴄʜ Pᴀɢᴇ Yᴏᴜ Wᴀɴᴛᴇᴅ Tᴏ Sᴄʀᴀᴩ Aɴᴅ Sᴇɴᴅ Lɪɴᴋꜱ.Dᴇꜰᴀᴜʟᴛ Iꜱ 1
 """
 
 CMD = "(discudemy|coursevania|udemy_freebies|tutorialbar|real_discount|idcoupons)"
